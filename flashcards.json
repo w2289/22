@@ -1,0 +1,32 @@
+[
+  {
+    "word": "apple",
+    "phonetic": "ˈæpəl",
+    "example": "She ate an apple for breakfast.",
+    "chinese": "苹果"
+  },
+  {
+    "word": "book",
+    "phonetic": "bʊk",
+    "example": "I borrowed a book from the library.",
+    "chinese": "书"
+  },
+  {
+    "word": "computer",
+    "phonetic": "kəmˈpjuːtər",
+    "example": "He bought a new computer yesterday.",
+    "chinese": "电脑"
+  },
+  {
+    "word": "dog",
+    "phonetic": "dɒg",
+    "example": "The dog barked loudly.",
+    "chinese": "狗"
+  },
+  {
+    "word": "eat",
+    "phonetic": "iːt",
+    "example": "We eat dinner at six o'clock.",
+    "chinese": "吃"
+  }
+]
